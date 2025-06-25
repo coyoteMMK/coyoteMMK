@@ -1,16 +1,46 @@
-## Hi there 👋
+<p align="center" width="300">
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png" />
+   <h3 align="center">¡Hey 👋! Soy midudev 👨🏻‍💻</h3>
+</p>
 
-<!--
-**coyoteMMK/coyoteMMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+   <a href="https://twitch.tv/midudev" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Twitch_logo_2019.svg" alt="Canal de Twitch de midudev" height="28px" width="56px" />
+  </a>
+  <span style="width: 8px;"> </span>
+   <a href="https://youtube.com/midudev" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="midudev" height="23px" width="33px" />
+  </a>
+  <span style="width: 8px;"> </span>
+  <a href="https://instagram.com/midu.dev" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Canal de Instagram de midu.dev" height="23px" width="23px" />
+  </a>
+  <span style="width: 8px;"> </span>
+  <a href="https://twitter.com/midudev" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png" alt="Canal de Twitter de midudev" height="23px" width="28px" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### 📹 Últimos vídeos en mi [canal de Youtube](https://youtube.com/midudev?sub_confirmation=1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href='https://youtu.be/kesoESnJC3s' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/kesoESnJC3s/mqdefault.jpg' alt='¡Google acaba de lanzar su agente de IA para terminal!  ✓ CLI para Gemini 2.5 Pro ✓ Contexto de 1 mi' />
+</a>
+<a href='https://youtu.be/5L4M4-WOGwo' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/5L4M4-WOGwo/mqdefault.jpg' alt='Brutales transiciones entre páginas con CSS (0 JavaScript)' />
+</a>
+<a href='https://youtu.be/QkrH7GC1360' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/QkrH7GC1360/mqdefault.jpg' alt='Extensión oficial de Visual Studio Code para trabajar con bases de datos PostgreSQL.  La acaba de la' />
+</a>
+
+### 📹 Últimos vídeos en mi [canal secundario de Youtube](https://youtube.com/midulive?sub_confirmation=1)
+
+<a href='https://youtu.be/kQPu_k7ae0I' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/kQPu_k7ae0I/mqdefault.jpg' alt='Facebook, WTF...' />
+</a>
+<a href='https://youtu.be/Kbsk5zDkH0Y' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/Kbsk5zDkH0Y/mqdefault.jpg' alt='Esto no es bueno' />
+</a>
+<a href='https://youtu.be/oDu4SBRLDaw' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/oDu4SBRLDaw/mqdefault.jpg' alt='Probé este Navegador Web con IA' />
+</a>
